@@ -1,1 +1,2 @@
-# Prever_Chuva_de_meteoros
+# Previsão de chuva de meteoros usando Python
+# Learn Microsoft
